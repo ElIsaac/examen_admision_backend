@@ -1,0 +1,19 @@
+{
+  "name": "nuevo-ingreso",
+  "version": "1.0.0",
+  "description": "backend para administrar los examenes de nuevo ingreso",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx nodemon src/index.js"
+  },
+  "author": "5w",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
