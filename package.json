@@ -4,7 +4,8 @@
   "description": "backend para administrar los examenes de nuevo ingreso",
   "main": "index.js",
   "scripts": {
-    "dev": "npx nodemon src/index.js"
+    "dev": "npx nodemon src/index.js",
+    "build": "node src/index.js"
   },
   "author": "5w",
   "license": "ISC",
